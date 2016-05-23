@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard Proto 1.CSharp", "Cardboard Proto 1.CSharp.csproj", "{A8C9B141-26A6-6286-190A-2E33007F0993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard Proto 1.CSharp.Editor", "Cardboard Proto 1.CSharp.Editor.csproj", "{0E3C8FB7-3B62-A893-FBDA-4B69C3ADCEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C9B141-26A6-6286-190A-2E33007F0993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C9B141-26A6-6286-190A-2E33007F0993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C9B141-26A6-6286-190A-2E33007F0993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C9B141-26A6-6286-190A-2E33007F0993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3C8FB7-3B62-A893-FBDA-4B69C3ADCEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3C8FB7-3B62-A893-FBDA-4B69C3ADCEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3C8FB7-3B62-A893-FBDA-4B69C3ADCEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3C8FB7-3B62-A893-FBDA-4B69C3ADCEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
